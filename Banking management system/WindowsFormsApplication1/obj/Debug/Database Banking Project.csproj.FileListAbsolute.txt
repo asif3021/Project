@@ -1,0 +1,127 @@
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Database Banking Project.csprojResolveAssemblyReference.cache
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administrator.resources
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asif Ahmed\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Database Banking Project.csproj.GenerateResource.Cache
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\mscorlib.dll
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normidna.nlp
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfc.nlp
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfd.nlp
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkc.nlp
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkd.nlp
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Database Banking Project.csprojResolveAssemblyReference.cache
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administrator.resources
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Study\7th semister\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Database Banking Project.csproj.GenerateResource.Cache
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Database Banking Project.csprojResolveAssemblyReference.cache
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administrator.resources
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asif Ahmed\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Database Banking Project.csproj.GenerateResource.Cache
+G:\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\project\WindowsFormsApplication1\obj\Debug\Database Banking Project.csprojResolveAssemblyReference.cache
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administrator.resources
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\project\WindowsFormsApplication1\obj\Debug\Database Banking Project.csproj.GenerateResource.Cache
+G:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transection.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\Database Banking Project.csprojResolveAssemblyReference.cache
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administrator.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\Database Banking Project.csproj.GenerateResource.Cache
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transection1.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transection_details.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Home.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registration.resources
+C:\Users\Asif Ahmed\Desktop\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Admin_Status.resources
+D:\18.08.16\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\18.08.16\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\18.08.16\project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\Database Banking Project.csprojResolveAssemblyReference.cache
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administrator.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Admin_Status.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registration.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Home.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transection1.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transection_details.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\18.08.16\project\WindowsFormsApplication1\obj\Debug\Database Banking Project.csproj.GenerateResource.Cache
+D:\18.08.16\Banking management system\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\18.08.16\Banking management system\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\18.08.16\Banking management system\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\Database Banking Project.csprojResolveAssemblyReference.cache
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administrator.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Admin_Status.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registration.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Home.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transection1.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transection_details.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\18.08.16\Banking management system\WindowsFormsApplication1\obj\Debug\Database Banking Project.csproj.GenerateResource.Cache
